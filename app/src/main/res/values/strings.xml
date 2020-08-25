@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dota Heroes</string>
+    <string name="nama_hero">Nama Hero</string>
+    <string name="biography">Biography</string>
 </resources>
