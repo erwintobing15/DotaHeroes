@@ -5,4 +5,5 @@
     <string name="role">Role</string>
     <string name="bio">Bio</string>
     <string name="skill">Skill</string>
+    <string name="dota_heroes">Dota Heroes</string>
 </resources>
